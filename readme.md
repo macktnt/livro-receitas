@@ -1,3 +1,5 @@
-###LIVRO RECEITAS
+LIVRO DE RECEITAS
 
-- 1 peito de frango
+Bem vindo ao meu super livro de receitas
+
+- Lasanha de Frango
